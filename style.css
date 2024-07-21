@@ -64,7 +64,7 @@ a, a:visited {
     .profimage {
         max-height: 40vh;
         padding-bottom:5vh;
-        margin-left: 20vw;
+        margin-left: 20vmin;
         margin-right:10vmin;
     }
 }
